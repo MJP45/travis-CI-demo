@@ -5,3 +5,7 @@ script: mvn test -B
 
 # sets operating system of virtual machine
 os: linux
+
+branches:
+  only:
+    - master
