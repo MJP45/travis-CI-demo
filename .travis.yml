@@ -12,7 +12,7 @@ branches:
   only:
     - master
 
-deploy:
-  provider: heroku:git
-  username:
-    secure:
+#deploy:
+#  provider: heroku:git
+#  username:
+#    secure:
