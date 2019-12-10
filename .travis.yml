@@ -8,8 +8,6 @@ os:
   - linux
   - osx
 
-jdk: oraclejdk8
-
 branches:
   only:
     - master
